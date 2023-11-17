@@ -1,0 +1,25 @@
+.contactBlock {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.contactFormLable {
+  font-weight: 600;
+}
+
+.contactInputForm {
+  height: 20px;
+  border-radius: 5px;
+}
+
+.contactBtn {
+font-size: 18px;
+padding: 10px;
+color: blue;
+background-color: #fff;
+border: 1px solid blue;
+border-radius: 5px;
+cursor: pointer;
+}
